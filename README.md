@@ -138,7 +138,7 @@ class MachineLearningEngineer:
     self.company = &quot;Freelance&quot;
     self.contact = &quot;kubilaytuna26@hotmail.com&quot;
     self.work    = &quot;E2E AI Business Solutins&quot;
-
+<br/>
 me = MachineLearningEngineer() </code> 
       </pre> </td>
     <td style="vertical-align: middle; text-align: center">
