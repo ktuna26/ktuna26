@@ -6,8 +6,8 @@
       <img alt="GIF" src="https://i.giphy.com/iIqmM5tTjmpOB9mpbn.webp"style="width:1150px;height:350px;"/> </td>
     <td style="vertical-align: middle; text-align: center">
       <h3 id="about-me" align="left">👨🏻‍💻 About Me</h3>
-      <img alt="ktuna_introduction" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1500&color=E10000&center=true&vCenter=true&multiline=true&random=false&width=360&height=70&lines=Kubilay+Tuna;Machine+Learning+(ML)+Engineer"/>
-      <p align="left">  A skilled, committed, passionate and enthusiastic MSc ML Engineer, as well as Technical Leader (TL) providing end to end (E2E) Artificial Intelligence (AI) business solutions.</p> 
+      <img alt="ktuna_introduction" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1500&color=E10000&center=true&vCenter=true&multiline=true&random=false&width=360&height=70&lines=Kubilay+Tuna;Senior+Data+Scientist+(DS)"/>
+      <p align="left">  A skilled, committed, passionate and enthusiastic MSc, Senior Data Scientist, as well as Technical Leader (TL) providing end to end (E2E) Artificial Intelligence (AI) business solutions.</p> 
       <p align="left"><strong>🚀 Current Working Areas:</strong> LLMs, RAG, Vector Databases, Data Mining, Data Manipulation</p> 
       <h4 id="contact-with-me" align="left">🔗 Connect With Me</h4>
       <p align="left">
